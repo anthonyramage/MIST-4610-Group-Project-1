@@ -5,7 +5,7 @@
 39217 Group 6
 ## Team Members:
 1. David Tran
-2. Nick Kalenik 
+2. Nick Kalenik [NickKalenik](https://github.com/NickKalenik/MIST4610GroupProject1)
 3. Minathi Mekala
 4. Ngoc Nguyen [ngocpn1](https://github.com/ngocpn1?tab=repositories)
 5. Anthony Ramage
