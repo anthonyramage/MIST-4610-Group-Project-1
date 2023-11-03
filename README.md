@@ -5,9 +5,9 @@
 39217 Group 6
 ## Team Members:
 1. David Tran
-2. Nick Kalenik
+2. Nick Kalenik 
 3. Minathi Mekala
-4. Ngoc Nguyen
+4. Ngoc Nguyen @ngocpn1
 5. Anthony Ramage
 6. CJ Tumlin
 ## Problem Description:
