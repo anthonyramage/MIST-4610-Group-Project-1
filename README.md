@@ -7,7 +7,7 @@
 1. David Tran
 2. Nick Kalenik 
 3. Minathi Mekala
-4. Ngoc Nguyen @ngocpn1
+4. Ngoc Nguyen [ngocpn1](https://github.com/ngocpn1?tab=repositories)
 5. Anthony Ramage
 6. CJ Tumlin
 ## Problem Description:
