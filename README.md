@@ -6,7 +6,7 @@
 ## Team Members:
 1. David Tran
 2. Nick Kalenik [NickKalenik](https://github.com/NickKalenik/MIST4610GroupProject1)
-3. Minathi Mekala
+3. Minathi Mekala [minathi11](https://github.com/minathi11/MISTGroupProject1/blob/main/README.md)
 4. Ngoc Nguyen [ngocpn1](https://github.com/ngocpn1?tab=repositories)
 5. Anthony Ramage
 6. CJ Tumlin
